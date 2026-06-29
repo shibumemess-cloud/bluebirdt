@@ -1,0 +1,42 @@
+# Bluebird — Browser Tools
+
+> Bluebird is a free collection of privacy-first online tools that run entirely
+> inside your browser. No uploads, no accounts, no tracking. Every file you
+> process stays on your device.
+
+## Why Bluebird is different
+
+- All processing happens client-side using Web Workers and native browser APIs.
+- No server ever sees your files, text or passwords.
+- Free forever — no paywalls, no watermarks, no usage caps.
+- Works on any modern browser, desktop or mobile.
+
+## Tools
+
+### Image
+- [Image Compressor](/image-compressor): Shrink JPG, PNG and WEBP photos to a target size while keeping quality.
+- [Image Resizer](/image-resizer): Resize photos to custom pixel dimensions or social-media presets (Instagram, YouTube, Twitter).
+- [Image Cropper](/image-cropper): Crop to a square, 16:9, or any custom ratio with a live drag handle.
+- [Rotate & Flip](/rotate-flip): Rotate by 90°, straighten with a slider, or mirror an image.
+- [Format Converter](/image-format-converter): Convert between JPG, PNG, WEBP and BMP in one click.
+- [Photo Watermark](/watermark): Add a text or logo watermark to one photo or a whole batch.
+- [Color Picker](/color-picker): Read HEX/RGB/HSL from any pixel and extract a palette.
+- [EXIF Viewer & Cleaner](/exif-viewer): See and remove hidden EXIF metadata (camera, date, GPS) before sharing.
+- [Favicon Generator](/favicon-generator): Build a full favicon pack (16×16, 32×32, 180×180, .ico) from one image.
+
+### Documents
+- [Images to PDF](/images-to-pdf): Combine multiple photos into a single PDF with A4/Letter sizing.
+- [PDF to Images](/pdf-to-images): Extract every page of a PDF as PNG, JPG or WEBP at custom DPI.
+
+### Generators
+- [QR Code Generator](/qr-generator): Make QR codes for links, Wi-Fi, vCards or plain text with custom colors. Export PNG/SVG/JPG.
+- [Password Generator](/password-generator): Generate strong passwords or memorable passphrases using crypto.getRandomValues.
+
+### Developer
+- [JSON Formatter](/json-formatter): Pretty-print, validate, sort keys, minify, and convert JSON to YAML.
+- [Base64 Encoder & Decoder](/base64): Encode/decode text or files, with URL-safe option and data-URL helper.
+- [Text Case Converter](/text-case-converter): Switch between UPPER, lower, Title, camel, snake, kebab and 6 more cases.
+
+## Pages
+- [Home](/) — full tool index grouped by category.
+- [Sitemap](/sitemap.xml) — machine-readable list of every page.

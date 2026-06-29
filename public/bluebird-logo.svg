@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 48 48" role="img" aria-label="Bluebird">
+  <defs>
+    <linearGradient id="w" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0%" stop-color="#5BA8FF"/>
+      <stop offset="100%" stop-color="#1E66F5"/>
+    </linearGradient>
+    <linearGradient id="b" x1="0" y1="1" x2="1" y2="0">
+      <stop offset="0%" stop-color="#1E66F5"/>
+      <stop offset="100%" stop-color="#0B3FB0"/>
+    </linearGradient>
+  </defs>
+  <rect width="48" height="48" rx="11" fill="#EAF2FF"/>
+  <path d="M4 30 C 14 36, 26 36, 38 28 C 30 40, 16 44, 6 38 Z" fill="url(#w)"/>
+  <path d="M10 22 C 14 10, 28 8, 38 14 C 42 16, 44 20, 40 24 C 30 30, 18 30, 10 26 Z" fill="url(#b)"/>
+  <path d="M40 14 L 46 18 L 40 20 Z" fill="#FFC04D"/>
+  <circle cx="33" cy="17" r="1.6" fill="#F8FAFF"/>
+</svg>
